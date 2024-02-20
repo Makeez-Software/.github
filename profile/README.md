@@ -1,7 +1,7 @@
 # Makeez Software: Driven by Innovation, Fueled by Passion
 Makeez Software, a one-person powerhouse, is all about creating impactful software solutions through the power of open-source collaboration.
 
-Founded by a [Kevin Koech](https:github.com/kevinkoech357), this project seeks to build a community of like-minded individuals who share a love for coding and problem-solving.
+Founded by [Kevin Koech](https:github.com/kevinkoech357), this project seeks to build a community of like-minded individuals who share a love for coding and problem-solving.
 
 ## What We Do:
 
