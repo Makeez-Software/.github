@@ -26,6 +26,4 @@ Here's how you can get involved with Makeez Software:
 
 At Makeez Software, we're committed to pushing the boundaries of what's possible through collaboration and innovation. Join us on this exciting journey as we work together to create software solutions that make a difference.
 
-For any inquiries or to get involved, please reach out to us at [Email](makeez.software@proton.me).
-
 Welcome to Makeez Software!
