@@ -1,6 +1,6 @@
 # Welcome to Makeez Software!
 
-Makeez Software is a collaborative platform dedicated to the development and maintenance of innovative open-source software. Founded by Kevin Koech, we are committed to harnessing the power of open-source collaboration to create impactful solutions that address real-world challenges.
+Makeez Software is a collaborative platform dedicated to the development and maintenance of innovative open-source software. Founded by [Kevin Koech](https://github.com/kevinkoech357), we are committed to harnessing the power of open-source collaboration to create impactful solutions that address real-world challenges.
 
 ## Our Mission
 
